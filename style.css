@@ -90,13 +90,13 @@ display: none;
     padding: 10px;
     border-radius: 30px;
     cursor: pointer;
-    border: solid#a435f0 1px; 
+    border: solid #a435f0 1px; 
 }
 .categories p:hover{
     transition: 1s;
     background-color: transparent;
     color: black;
-    border: solid#a435f0 1px; 
+    border: solid #a435f0 1px; 
 }
 
 .sale-image{
